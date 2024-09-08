@@ -8,8 +8,8 @@ ipykernel = "*"
 tinygrad = "*"
 numpy = "*"
 matplotlib = "*"
-black = {extras = ["jupyter"], version = "*"}
 torch = "*"
+ruff = "*"
 
 [dev-packages]
 
