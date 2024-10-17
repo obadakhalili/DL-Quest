@@ -9,6 +9,7 @@ tinygrad = "*"
 numpy = "*"
 matplotlib = "*"
 ruff = "*"
+scikit-learn = "*"
 
 [dev-packages]
 
